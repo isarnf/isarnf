@@ -1,5 +1,7 @@
 ### Hii! Welcome to my Github! 👋👩🏻‍💻🧠💪
 
+- I'm a System Analysis and Software Development student from Brazil
+
 <div align="center">
   <a href="https://github.com/isarnf">
   
