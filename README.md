@@ -8,5 +8,3 @@
   <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isarnf&layout=compact&langs_count=8&theme=jolly"/>
 </div>
 
-![Snake animation](https://github.com/isarnf/isarnf/blob/output/github-contribution-grid-snake.svg)
-
